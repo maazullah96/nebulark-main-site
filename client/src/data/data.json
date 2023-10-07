@@ -1,0 +1,211 @@
+{
+  "Header": {
+    "title": "NEBULARK",
+    "paragraph": "Designing Solutions"
+  },
+  "About": {
+    "paragraph": "Welcome to Nebulark Inc, your number one source for IT designing and development services.. We're dedicated to providing you the best, with a focus on dependability. customer service, timely delivery, quality products and service delivery. We provide services in the different domains including but not limited to graphic designing, application designing, application development, ecommerce, digital marketing, content writing and BlockChain/ NFT solutions. ",
+    "Why": [
+      "Timely Response and Service Delivery",
+      "Technology Agnostic Team Members",
+      "Services for Complete Product Life Cycle"
+    ],
+    "Why2": [
+      "Bi Directional Feedback Mechanism",
+      "Quality Results and Solutions",
+      "Bleeding Edge Technology Adaptation"
+    ]
+  },
+  "Products":{
+    "title": "List of Products we are currently working on",
+    "products":
+    [
+      {
+        "title": "Al Fatihah",
+        "smallImages": "img/portfolio/alfatihah.jpg",
+        "smallImage": "img/portfolio/01-small.jpg",
+
+
+        "links":
+        {
+          "wordpress":"https://alfatihah01.wordpress.com/",
+          "facebook": "https://www.facebook.com/alfatihah01",
+         "twitter": "https://twitter.com/AlFatihahTheKey",
+         "instagram":"https://www.instagram.com/alfatihahthekey",
+         "pinterest":"https://www.pinterest.com/al123fatihah/"
+        }
+      },
+      {
+        "title": "Quotegram",
+        "smallImage": "img/portfolio/02-small.jpg",
+        "links":
+        {
+          "wordpress":"https://quotegram.wordpress.com/",
+          "facebook": "https://www.facebook.com/profile.php?id=100066698811524",
+         "twitter": "https://twitter.com/DeQuotegram",
+         "instagram":"https://www.instagram.com/dequotegram/",
+         "pinterest":"https://www.pinterest.com/dequotegram/"
+  
+        }
+      },
+      {
+       
+        "title": "Noble Earth",
+        "smallImage": "img/portfolio/03-small.jpg",
+        "smallImages": "img/portfolio/nobleearth.jpg",
+        "links":
+        {
+          "wordpress":"",
+          "facebook": "https://www.facebook.com/TheNobleEarthofficial",
+         "twitter": "https://twitter.com/TheNoble_Earth",
+         "instagram":"https://www.instagram.com/thenobleearth/",
+         "pinterest":"https://www.pinterest.com/thenobleearth"
+  
+        }
+      },
+      {
+        "title": "Opportunity Circle",
+        "smallImage": "img/portfolio/04-small.jpg",
+        "smallImages": "img/portfolio/opportunitycircle.jpg",
+        "links":
+        {
+          "wordpress":"",
+          "facebook": "https://www.facebook.com/Opportunity.Circle/",
+         "twitter": "https://twitter.com/OpportunityCir1",
+         "instagram":"https://www.instagram.com/opportunity_circle/",
+         "pinterest":"https://www.pinterest.com/opportunitycircle/"
+  
+        }
+      }
+    ]
+  }
+ ,
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Application Development",
+      "text": "Desktop, Web and Mobile Application Development"
+    },
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Graphics/ Application Designing",
+      "text": "All Kinds of Graphics, Image Processing, Desktop/ Web/ Mobile Mockups, NFTs Collectible/ Character"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Digital Marketing",
+      "text": "Social Media Marketing, Search Engine Optimization, Amazon Virtual Assistant"
+    },
+    {
+      "icon": "fa fa-edit",
+      "name": "Content Writing",
+      "text": "Academic, Technical and Research Writing related to IT, International Relations, Business"
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "name": "Ecommerce Development",
+      "text": "Design and Deploying ECommerce Stores using Shopify, Magento and totally indigenous"
+    },
+    {
+
+      "icon": "fa fa-btc",
+      "name": "Blockchain and NFT Development",
+      "text": "NFT Marketplace, Blockchain solutions"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Maaz Ullah",
+      "job": "Software Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Zia Ullah",
+      "job": "Graphic Designer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mubashar Hassan",
+      "job": "Android Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Zain Ul Abideen",
+      "job": "Support Team"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Abdul Rafay",
+      "job": "Content Writer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Iqra Minhas",
+      "job": "Social Media Analyst"
+  },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Rabia Minhas",
+      "job": "Social Media Analyst"
+    }
+  ],
+  "Contact": {
+    "address": "Khana Dak Pindorian Islamabad",
+    "phone": "+92 316 5290267",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Values": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Quality Services"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Timely Delievery"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Standardized Procedures"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "FeedBack Oriented"
+    }
+  ]
+}
