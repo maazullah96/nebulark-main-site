@@ -9,7 +9,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       '/api': {
-        target: 'http://localhost:3000',
+        target: 'https://nebulark-main-site-server.vercel.app/',
         changeOrigin: true
       }
     }
