@@ -7,11 +7,6 @@
       "methods": ["GET", "POST", "PUT", "PATCH", "DELETE"]
     },
     {
-      "src": "/assets/(.*)",
-      "dest": "https://nebulark-main-site.vercel.app/assets/$1",
-      "methods": ["GET"]
-    },
-    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
